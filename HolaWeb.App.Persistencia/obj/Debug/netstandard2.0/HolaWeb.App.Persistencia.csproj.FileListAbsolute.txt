@@ -22,3 +22,16 @@ C:\MisionTIC-2021-Ciclo3-WF-main\HolaWeb.App.Persistencia\obj\Debug\netstandard2
 C:\MisionTIC-2021-Ciclo3-WF-main\HolaWeb.App.Persistencia\obj\Debug\netstandard2.0\HolaWeb.App.Persistencia.csproj.CopyComplete
 C:\MisionTIC-2021-Ciclo3-WF-main\HolaWeb.App.Persistencia\obj\Debug\netstandard2.0\HolaWeb.App.Persistencia.dll
 C:\MisionTIC-2021-Ciclo3-WF-main\HolaWeb.App.Persistencia\obj\Debug\netstandard2.0\HolaWeb.App.Persistencia.pdb
+C:\HolaWeb_MITIC\HolaWeb.App.Persistencia\bin\Debug\netstandard2.0\HolaWeb.App.Persistencia.deps.json
+C:\HolaWeb_MITIC\HolaWeb.App.Persistencia\bin\Debug\netstandard2.0\HolaWeb.App.Persistencia.dll
+C:\HolaWeb_MITIC\HolaWeb.App.Persistencia\bin\Debug\netstandard2.0\HolaWeb.App.Persistencia.pdb
+C:\HolaWeb_MITIC\HolaWeb.App.Persistencia\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.dll
+C:\HolaWeb_MITIC\HolaWeb.App.Persistencia\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.pdb
+C:\HolaWeb_MITIC\HolaWeb.App.Persistencia\obj\Debug\netstandard2.0\HolaWeb.App.Persistencia.csproj.AssemblyReference.cache
+C:\HolaWeb_MITIC\HolaWeb.App.Persistencia\obj\Debug\netstandard2.0\HolaWeb.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\HolaWeb_MITIC\HolaWeb.App.Persistencia\obj\Debug\netstandard2.0\HolaWeb.App.Persistencia.AssemblyInfoInputs.cache
+C:\HolaWeb_MITIC\HolaWeb.App.Persistencia\obj\Debug\netstandard2.0\HolaWeb.App.Persistencia.AssemblyInfo.cs
+C:\HolaWeb_MITIC\HolaWeb.App.Persistencia\obj\Debug\netstandard2.0\HolaWeb.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\HolaWeb_MITIC\HolaWeb.App.Persistencia\obj\Debug\netstandard2.0\HolaWeb.App.Persistencia.csproj.CopyComplete
+C:\HolaWeb_MITIC\HolaWeb.App.Persistencia\obj\Debug\netstandard2.0\HolaWeb.App.Persistencia.dll
+C:\HolaWeb_MITIC\HolaWeb.App.Persistencia\obj\Debug\netstandard2.0\HolaWeb.App.Persistencia.pdb

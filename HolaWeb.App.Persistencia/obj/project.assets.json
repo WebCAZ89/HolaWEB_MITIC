@@ -201,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\HolaWeb_MITIC\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj",
       "projectName": "HolaWeb.App.Persistencia",
-      "projectPath": "C:\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj",
+      "projectPath": "C:\\HolaWeb_MITIC\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Persistencia\\obj\\",
+      "outputPath": "C:\\HolaWeb_MITIC\\HolaWeb.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -222,8 +222,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj": {
-              "projectPath": "C:\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj"
+            "C:\\HolaWeb_MITIC\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj": {
+              "projectPath": "C:\\HolaWeb_MITIC\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj"
             }
           }
         }

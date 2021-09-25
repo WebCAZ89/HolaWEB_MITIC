@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TQtULNfU4/c3/mqVO8iXRXuuKSR2FwCdSJC5XXatIZSTHmVJm1h2yYKe40R5C8x4gWXTLYiD4LwWlfneApfAyA==",
+  "dgSpecHash": "PaWH2dtXlXsK/vTQWHbIiB1kaSw2IK0tayEePxCF3WvNnTKGzOCLfD/4XsVStnApzTwc+MJROF6FD/D+Nd9m2Q==",
   "success": true,
-  "projectFilePath": "C:\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj",
+  "projectFilePath": "C:\\HolaWeb_MITIC\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
