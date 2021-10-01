@@ -1,4 +1,6 @@
+using System;
 using System.Collections.Generic;
+using System.Linq;
 using HolaWeb.App.Dominio;
 
 namespace HolaWeb.App.Persistencia.AppRepositorios
@@ -20,6 +22,16 @@ namespace HolaWeb.App.Persistencia.AppRepositorios
         public IEnumerable<Saludo> GetAll()
         {
             return saludos;
+        }
+
+        public IEnumerable<Saludo> GetSaludosPorFiltro(string filtro)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Saludo GetSaludosPorId(int saludoID)
+        {
+            throw new NotImplementedException();
         }
     }
 }
