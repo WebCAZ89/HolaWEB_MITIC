@@ -125,3 +125,4 @@ C:\HolaWeb_MITIC\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Fronte
 C:\HolaWeb_MITIC\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.pdb
 C:\HolaWeb_MITIC\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.genruntimeconfig.cache
 C:\HolaWeb_MITIC\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Saludos\Details.cshtml.g.cs
+C:\HolaWeb_MITIC\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Saludos\Edit.cshtml.g.cs

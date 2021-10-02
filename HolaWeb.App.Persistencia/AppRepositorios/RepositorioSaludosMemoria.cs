@@ -19,6 +19,14 @@ namespace HolaWeb.App.Persistencia.AppRepositorios
 
             };
         }
+
+        public Saludo Add(Saludo nuevoSaludo)
+        {
+            nuevoSaludo.Id=saludos.Max(r => r.Id)+1;
+            saludos.Add(nuevoSaludo);
+            return nuevoSaludo;
+        }
+
         public IEnumerable<Saludo> GetAll()
         {
             return saludos;
@@ -32,6 +40,11 @@ namespace HolaWeb.App.Persistencia.AppRepositorios
         public Saludo GetSaludosPorId(int saludoId)
         {
             return saludos.SingleOrDefault(s => s.Id==saludoId);
+        }
+
+        public Saludo Update(Saludo saludoActualizado)
+        {
+            throw new NotImplementedException();
         }
     }
 }

@@ -29,5 +29,5 @@ namespace HolaWeb.App.Frontend.Pages
           Saludos=repositorioSaludos.GetAll();
 
         }
-    }
+    }   
 }
