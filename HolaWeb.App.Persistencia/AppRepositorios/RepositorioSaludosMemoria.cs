@@ -29,9 +29,9 @@ namespace HolaWeb.App.Persistencia.AppRepositorios
             throw new NotImplementedException();
         }
 
-        public Saludo GetSaludosPorId(int saludoID)
+        public Saludo GetSaludosPorId(int saludoId)
         {
-            throw new NotImplementedException();
+            return saludos.SingleOrDefault(s => s.Id==saludoId);
         }
     }
 }

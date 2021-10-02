@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using HolaWeb.App.Dominio;
 
+
 namespace HolaWeb.App.Persistencia.AppRepositorios
 {
     public interface IRepositorioSaludos
@@ -8,7 +9,7 @@ namespace HolaWeb.App.Persistencia.AppRepositorios
         IEnumerable<Saludo> GetAll();
         IEnumerable<Saludo> GetSaludosPorFiltro(string filtro);
         
-        Saludo GetSaludosPorId(int saludoID);
+        Saludo GetSaludosPorId(int saludoId);
 
     }
 }

@@ -14,6 +14,7 @@ namespace HolaWeb.App.Frontend.Pages
        //private string[] saludos = { "Buenos dias", "Buenas tardes", "Buenas noches", "Hasta mañana" };
        // public List<string> ListaSaludos { get; set; }
        private readonly IRepositorioSaludos repositorioSaludos;
+       
        public IEnumerable<Saludo> Saludos {get;set;}
 
        public ListModel(IRepositorioSaludos repositorioSaludos)

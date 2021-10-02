@@ -24,6 +24,7 @@ namespace HolaWeb.App.Frontend
         {
             services.AddRazorPages();
             services.AddSingleton<IRepositorioSaludos, RepositorioSaludosMemoria>();
+            
            
         }
            
