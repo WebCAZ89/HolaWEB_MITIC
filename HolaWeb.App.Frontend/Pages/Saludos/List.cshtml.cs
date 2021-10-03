@@ -17,17 +17,21 @@ namespace HolaWeb.App.Frontend.Pages
        
        public IEnumerable<Saludo> Saludos {get;set;}
 
+       [BindProperty(SupportsGet = true)]
+       
+       public string FiltroBusqueda {get; set; }
+
        public ListModel(IRepositorioSaludos repositorioSaludos)
        {
             this.repositorioSaludos=repositorioSaludos;
        }
        
-        public void OnGet()
+        public void OnGet(string filtroBusqueda)
         {
-           // ListaSaludos = new List<string>();
-           // ListaSaludos.AddRange(saludos);
-          Saludos=repositorioSaludos.GetAll();
-
+            // ListaSaludos = new List<string>();
+            // ListaSaludos.AddRange(saludos);
+            FiltroBusqueda=filtroBusqueda;
+            Saludos=repositorioSaludos.GetSaludosPorFiltro(filtroBusqueda);
         }
     }   
 }

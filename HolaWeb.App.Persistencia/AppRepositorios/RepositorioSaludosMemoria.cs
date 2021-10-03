@@ -32,9 +32,20 @@ namespace HolaWeb.App.Persistencia.AppRepositorios
             return saludos;
         }
 
-        public IEnumerable<Saludo> GetSaludosPorFiltro(string filtro)
+        public IEnumerable<Saludo> GetSaludosPorFiltro(string filtro=null) // la asignación filtro=null indica que el parámetro filtro es opcional
         {
-            throw new NotImplementedException();
+                var saludos = GetAll(); // Obtiene todos los saludos
+                if (saludos != null) //Si se tienen saludos
+                {
+                    if (!String.IsNullOrEmpty(filtro)) // Si el filtro tiene algun valor
+                    {
+                        saludos = saludos.Where(s => s.EnEspañol.Contains(filtro));
+                         /// <summary>
+                        /// Filtra los mensajes que contienen el filtro
+                        /// </summary>
+                    }
+                }
+                return saludos;
         }
 
         public Saludo GetSaludosPorId(int saludoId)
